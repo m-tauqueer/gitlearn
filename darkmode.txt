@@ -1,0 +1,3 @@
+added dark mode support.
+
+added dark mode toggle button in settings.
