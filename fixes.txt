@@ -1,1 +1,4 @@
 yaha par bug fix horahe hai
+
+aur kuch changes bhi kiye gaye hai
+jo ki naye features ke liye jaruri hai
